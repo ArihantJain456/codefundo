@@ -1,10 +1,9 @@
-# codefundo
+# codefundo++
 
 ## Team: DSquad
 ## Members
-1. Arihant Jain     aridj456@gmail.com
-2. Pulkit Gupta     pulkonet@gmail.com
-
+1. Arihant Jain [arihantjain456](https://github.com/ArihantJain456)
+2. Pulkit Gupta [pulkonet](https://github.com/pulkonet)
 # IDEA
 
 ## Help App !
